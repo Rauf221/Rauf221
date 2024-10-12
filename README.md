@@ -30,4 +30,4 @@
 
 <p ><img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rauf221&theme=midnight-purple" alt="rauf221" /></p>
 <p >&nbsp;<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=rauf221&theme=midnight-purple&show_icons=true&locale=en" alt="rauf221" /></p>
-<p align="end"><img align="center" width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauf221&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="rauf221" /></p>
+<p align="center"><img  width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauf221&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="rauf221" /></p>
