@@ -28,6 +28,16 @@
 
 
 
-<p ><img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rauf221&theme=midnight-purple" alt="rauf221" /></p>
+<div width="auto">
+  <div alig>
+  <p ><img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rauf221&theme=midnight-purple" alt="rauf221" /></p>
 <p >&nbsp;<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=rauf221&theme=midnight-purple&show_icons=true&locale=en" alt="rauf221" /></p>
-<p align="end"><img  width="325" style="margin-top:20px;" align="end" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauf221&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="rauf221" /></p>
+</div>
+
+<div align="center" >
+  <p width="2000" >
+  <img   width="400"  align="end" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauf221&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="rauf221" />
+</p>
+</div>
+
+</div>
