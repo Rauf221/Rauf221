@@ -30,7 +30,7 @@
 
 
     <p alignt="right">
-  <img   align="right" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauf221&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="rauf221" />
+  <img   align="center" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauf221&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="rauf221" />
 </p>
 <p >&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=rauf221&theme=midnight-purple&show_icons=true&locale=en" alt="rauf221" /></p>
 
