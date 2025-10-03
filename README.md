@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **Code Final Project**
+- 🔭 I’m currently working on **Devel UP**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Three Js**
 
-- 💬 Ask me about **React, NextJs, Tailwind**
+- 💬 Ask me about **React, NextJs, Tailwind, Firebase, Animations**
 
-- ⚡ Fun fact **:)**
+- ⚡ Fun fact **Let me tell u something**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
