@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Three Js**
 
-- 💬 Ask me about **React, NextJs, Tailwind, Firebase, Animations**
+- 💬 Ask me about **React, NextJs, Tailwind, ThreeJS, RestAPI, PHP, ViteJS, Flutter, Ruby, Gsap , Animations**
 
 - ⚡ Fun fact **Let me tell u something**
 
